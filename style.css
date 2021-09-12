@@ -1,0 +1,64 @@
+body{
+	background-image: url(bg1.png);
+	font-family: sans-serif;
+	padding: 10px 20px;
+	font-size : 15pt;
+}
+.judul{
+	text-align: center;
+	color: #0C2C7D;
+	font-weight: normal;
+}
+.bil{
+	background: #9499fc;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #000204;
+	font-size: 15pt;
+	border-bottom:4px solid #425492;
+}
+.tombol{
+	background: #0C2C7D;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 3px;
+	padding: 5px 10px;
+	color: #FEFEFE;
+	font-size: 15pt;
+	border-bottom:4px solid #425492;
+}
+.gov{
+	background: #9499fc;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #000204;
+	font-size: 20 pt;
+	text-align: center;
+}
+.Nilai{
+	background: #9499fc;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 2px;
+	padding: 10px 20px;
+	color: #000204;
+	text-align: center;
+}
+.kalkulator{
+	text-align : Center;
+	width: 500px;
+	background-image: url(bg1.png);
+	background-color : #dfe1fd;
+	margin: 200px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 20px;
+	box-shadow: 0px 10px 20px 0px #D1D1D1;
+}
